@@ -2,13 +2,14 @@
 
 A modern, animated analog clock built using *HTML5, **CSS3, and **JavaScript*. This project demonstrates how to visually update DOM elements using real-time data from JavaScript.
 
- 🔧 Built With
+Live link[https://sreoshh.github.io/JS-Clock/]
+ ## 🔧 Built With
 
 - **HTML5**
 - **CSS3** (Transform & Animation)
 - **JavaScript** (Date Object)
 
- 🔑 Features
+##  🔑 Features
 
 - Displays the current system time
 - Dynamically updates:
@@ -18,7 +19,7 @@ A modern, animated analog clock built using *HTML5, **CSS3, and **JavaScript*. T
 - Smooth real-time transitions
 - Clean and responsive layout
 
- 📁 How to Use
+##  📁 How to Use
 
 1. Clone the repo:
    ```bash
